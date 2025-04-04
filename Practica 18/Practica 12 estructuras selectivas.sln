@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 12 estructuras selectivas", "Practica 12 estructuras selectivas.csproj", "{CCA004B6-A97B-4F8F-B9C5-3F252D0C3C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA004B6-A97B-4F8F-B9C5-3F252D0C3C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA004B6-A97B-4F8F-B9C5-3F252D0C3C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA004B6-A97B-4F8F-B9C5-3F252D0C3C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA004B6-A97B-4F8F-B9C5-3F252D0C3C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF08E32E-7BB8-461D-94AB-197D9D17D6B8}
+	EndGlobalSection
+EndGlobal

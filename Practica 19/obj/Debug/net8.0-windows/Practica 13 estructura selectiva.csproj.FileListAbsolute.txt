@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\bin\Debug\net8.0-windows\Practica 13 estructura selectiva.exe
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\bin\Debug\net8.0-windows\Practica 13 estructura selectiva.deps.json
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\bin\Debug\net8.0-windows\Practica 13 estructura selectiva.runtimeconfig.json
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\bin\Debug\net8.0-windows\Practica 13 estructura selectiva.dll
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\bin\Debug\net8.0-windows\Practica 13 estructura selectiva.pdb
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica_13_estructura_selectiva.Form1.resources
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.dll
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\refint\Practica 13 estructura selectiva.dll
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.pdb
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\Practica 13 estructura selectiva.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Practica 13 estructura selectiva\obj\Debug\net8.0-windows\ref\Practica 13 estructura selectiva.dll
