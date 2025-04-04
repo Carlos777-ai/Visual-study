@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 14 For While Do", "Practica 14 For While Do.csproj", "{477C445E-E745-434F-8E79-405741D59A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477C445E-E745-434F-8E79-405741D59A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477C445E-E745-434F-8E79-405741D59A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477C445E-E745-434F-8E79-405741D59A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477C445E-E745-434F-8E79-405741D59A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B397B43-483F-4DA3-ACD7-1B310708E6FC}
+	EndGlobalSection
+EndGlobal

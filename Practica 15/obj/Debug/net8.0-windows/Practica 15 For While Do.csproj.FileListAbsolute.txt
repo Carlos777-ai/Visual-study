@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Practica 15 For While Do\bin\Debug\net8.0-windows\Practica 15 For While Do.exe
+C:\Users\DELL\source\repos\Practica 15 For While Do\bin\Debug\net8.0-windows\Practica 15 For While Do.deps.json
+C:\Users\DELL\source\repos\Practica 15 For While Do\bin\Debug\net8.0-windows\Practica 15 For While Do.runtimeconfig.json
+C:\Users\DELL\source\repos\Practica 15 For While Do\bin\Debug\net8.0-windows\Practica 15 For While Do.dll
+C:\Users\DELL\source\repos\Practica 15 For While Do\bin\Debug\net8.0-windows\Practica 15 For While Do.pdb
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica_15_For_While_Do.Form1.resources
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.dll
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\refint\Practica 15 For While Do.dll
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.pdb
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\Practica 15 For While Do.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Practica 15 For While Do\obj\Debug\net8.0-windows\ref\Practica 15 For While Do.dll
