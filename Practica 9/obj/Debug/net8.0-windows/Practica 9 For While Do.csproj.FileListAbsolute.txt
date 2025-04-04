@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Practica 9 For While Do\obj\Debug\net8.0-windows\Practica_9_For_While_Do.Form1.resources
+C:\Users\DELL\source\repos\Practica 9 For While Do\obj\Debug\net8.0-windows\Practica 9 For While Do.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Practica 9 For While Do\obj\Debug\net8.0-windows\Practica 9 For While Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Practica 9 For While Do\obj\Debug\net8.0-windows\Practica 9 For While Do.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Practica 9 For While Do\obj\Debug\net8.0-windows\Practica 9 For While Do.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Practica 9 For While Do\obj\Debug\net8.0-windows\Practica 9 For While Do.csproj.CoreCompileInputs.cache
